@@ -1,0 +1,4 @@
+SQLite version 3.53.4 2026-07-24
+
+Режимы вывода данных в утилите sqlite3:
+list, column, table, box, csv, html, json, markdown, insert, line, tabs, tcl, quote, ascii
